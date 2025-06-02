@@ -2,7 +2,7 @@ import flet as ft
 
 PRODUCTOS = {
     "Gaseosa 500ml": 500,
-    "Galletitas": 350,
+    "Galletitas": 5000,
     "Alfajor": 400,
     "Jugo": 300,
     "Caramelos": 100,
